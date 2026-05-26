@@ -147,5 +147,7 @@ xgrid();
 
 <img width="345" height="493" alt="image" src="https://github.com/user-attachments/assets/51062bc8-25f6-4534-9e7b-f827b984617e" />
 
+
+
 ### RESULT: 
 Thus , the IIR Butterworth filter was designed successfully using bilinear transformation in SCILAB.
